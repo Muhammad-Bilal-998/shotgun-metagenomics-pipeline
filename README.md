@@ -4,7 +4,7 @@ Automated bash pipeline for end-to-end quality control, assembly, and profiling 
 
 [![Language: Bash](https://img.shields.io/badge/Language-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
 [![Environment: Conda](https://img.shields.io/badge/Environment-Conda-green.svg)](https://docs.conda.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
 
 An automated, checkpoint-aware Bash pipeline for end-to-end processing of shotgun metagenomic sequencing data. It orchestrates raw SRA retrieval, quality trimming, *de novo* assembly, contig-level coverage mapping, metagenomic binning, and quality assessment using isolated Conda environments.
 
